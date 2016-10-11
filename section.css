@@ -67,3 +67,62 @@ section#intro{
 	margin-top: 60px;
 	padding-left: 10px;
 }
+section#intro p{
+	padding-top: 35px;
+	font-style: italic;
+	font-size: 14px;
+	width: 800px;
+	color:#34A8E0;
+}
+
+article header h1{
+	font-size: 22px;
+	text-align: left;
+	line-height: 40px;
+	margin-top: 20px
+	padding: 0;
+}
+article p{
+	margin-bottom: 10px;
+	padding-right: 10px;
+	width: 620px;
+}
+
+article header p{
+	font-size: 15px;
+	line-height: 30px;
+	font-style: italic;
+	margin-bottom: 0px;
+}
+article{
+	width: 620px;
+	float:left;
+}
+
+aside{
+	width: 280px;
+	float: right;
+	padding-left: 40px;
+	margin-top: 80px;
+}
+
+aside section{
+	margin-top: 35px; 
+}
+
+aside section h1{
+	margin-bottom: 15px;
+	font-size: 16px;
+}
+aside section ul li{
+	list-style-type: none;
+}
+
+aside section ul li a{
+	text-decoration: none;
+	color:#2CE818;
+}
+aside section ul li a:hover{
+	text-decoration: underline;
+	background-color:#E90404;
+}
